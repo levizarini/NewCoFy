@@ -523,6 +523,12 @@ a {
     margin: 0 2rem;
   }
 }
+
+/* Sign-up Callout */
+
+.callout-signup {
+  transform: translateY(5rem);
+}
 /* Collapsibles */
 .collapsible__header {
   display: flex;
